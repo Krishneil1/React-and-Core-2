@@ -1,0 +1,14 @@
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.deps.json
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.json
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.runtimeconfig.dev.json
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.DAL.pdb
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.dll
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\bin\Debug\netcoreapp1.1\SpyStore.Models.pdb
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csprojAssemblyReference.cache
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CoreCompileInputs.cache
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfoInputs.cache
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.AssemblyInfo.cs
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.csproj.CopyComplete
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.dll
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.DAL\obj\Debug\netcoreapp1.1\SpyStore.DAL.pdb

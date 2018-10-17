@@ -1,0 +1,9 @@
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.0\SpyStore.Models.deps.json
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.0\SpyStore.Models.dll
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\bin\Debug\netstandard1.0\SpyStore.Models.pdb
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.csproj.CoreCompileInputs.cache
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.AssemblyInfoInputs.cache
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.AssemblyInfo.cs
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.dll
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.pdb
+C:\Dev\React-and-Core-2\SpyStore.DAL\SpyStore.Models\obj\Debug\netstandard1.0\SpyStore.Models.csprojAssemblyReference.cache
